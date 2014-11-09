@@ -1,0 +1,34 @@
+{
+  "name": "simple-type",
+  "version": "0.0.1",
+  "description": "enhance javascript typeof",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ruanyl/simple-type"
+  },
+  "keywords": [
+    "typeof"
+  ],
+  "author": {
+    "name": "Yulong Ruan"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ruanyl/simple-type/issues"
+  },
+  "homepage": "https://github.com/ruanyl/simple-type",
+  "dependencies": {
+    "ava": "0.0.4"
+  },
+  "devDependencies": {},
+  "readme": "simple-type\n========\n[![build status](https://secure.travis-ci.org/ruanyl/simple-type.svg)](http://travis-ci.org/ruanyl/simple-type)\n[![NPM version](https://badge.fury.io/js/simple-type.svg)](http://badge.fury.io/js/simple-type)\n\nenhance javascript typeof\n\n## Installation\n\nThis module is installed via npm:\n\n``` bash\n$ npm install simple-type\n```\n\n## Example Usage\n\n``` js\nvar simpleType = require('simple-type');\n```\n",
+  "readmeFilename": "README.md",
+  "_id": "simple-type@0.0.1",
+  "_shasum": "1e1d77e80c201bdf4bff6c2df762fcca6d59b98e",
+  "_from": "simple-type@",
+  "_resolved": "https://registry.npmjs.org/simple-type/-/simple-type-0.0.1.tgz"
+}
