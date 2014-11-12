@@ -5,6 +5,8 @@ simple-type
 
 enhance javascript typeof
 
+support:array, object, number, null, boolean, function, regexp, date, undefined
+
 ## Installation
 
 This module is installed via npm:
@@ -17,4 +19,7 @@ $ npm install simple-type
 
 ``` js
 var simpleType = require('simple-type');
+
+simpleType({name: 'ruan', age: 12}) === 'object' //true
+simpleType(/$a/g) === 'regexp'                   //true
 ```
