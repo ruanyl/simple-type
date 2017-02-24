@@ -1,6 +1,6 @@
 {
   "name": "simple-type",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "enhance javascript typeof",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,7 @@
   "homepage": "https://github.com/ruanyl/simple-type",
   "dependencies": {},
   "devDependencies": {
-    "ava": "0.0.4"
+    "ava": "0.18.2"
   },
   "readme": "simple-type\n========\n[![build status](https://secure.travis-ci.org/ruanyl/simple-type.svg)](http://travis-ci.org/ruanyl/simple-type)\n[![NPM version](https://badge.fury.io/js/simple-type.svg)](http://badge.fury.io/js/simple-type)\n\nenhance javascript typeof\n\n## Installation\n\nThis module is installed via npm:\n\n``` bash\n$ npm install simple-type\n```\n\n## Example Usage\n\n``` js\nvar simpleType = require('simple-type');\n```\n",
   "readmeFilename": "README.md",
